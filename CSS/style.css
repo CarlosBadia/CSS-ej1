@@ -1,0 +1,43 @@
+
+h1{
+color: red;
+}
+h2[gray="claro"]{
+color:#9c9c9c; 
+text-decoration: underline; 
+}
+h2[gray2="algo oscuro"]{
+    color:#7a7a7a; 
+    text-decoration: underline; 
+    }
+h2[gray3="más oscuro"]{
+color:#505050; 
+text-decoration: underline; 
+}
+.Franky{
+    background-color: #007a3d;
+}
+.Avi{
+    background-color: #00eeff;
+}
+.Boris{
+    background-color:greenyellow ;
+}
+.Tony{
+    background-color: #9b2929d2;
+}
+li~li~li{
+    background-color: #007a3d;
+}
+li~li~li~li{
+    background-color: #00eeff;
+}
+li~li~li~li~li{
+    background-color: #9b2929d2;
+}
+li~li~li~li~li~li{
+    background-color: greenyellow;
+}
+li{
+list-style-type: upper-roman;
+}
